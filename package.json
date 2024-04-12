@@ -1,0 +1,15 @@
+{  
+  "name": "scm-optimization",  
+  "version": "3.6.9",  
+  "description": "多样处理筛选数据",  
+  "main": "index.js",  
+  "scripts": {  
+    "test": "echo \"启动index.js"  
+  },  
+  "repository": {  
+    "type": "git",  
+    "url": "https://github.com/zerokongz/scm-optimization"  
+  },  
+  "license": "ISC",  
+  "homepage": "https://github.com/zerokongz/scm-optimization"  
+}
